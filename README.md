@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eaziey/Eaziey/main/banner.png" alt="Welcome Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Eaziey/Eaziey/main/banner.png" alt="Welcome Banner" width="50%">
 </p>
 
 <!-- Headline -->
