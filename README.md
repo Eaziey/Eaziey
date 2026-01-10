@@ -1,38 +1,55 @@
 
-<!-- Hero -->
+<!-- Hero Banner -->
 <p align="center">
   https://raw.githubusercontent.com/Eaziey/Eaziey/main/banner.png
 </p>
 
-<!-- Tagline -->
-<h3 align="center">Building reliable web apps with C# · .NET · SQL · JavaScript</h3>
+<h1 align="center">👋 Hey there, Welcome to my GitHub!</h1>
 
-<!-- Portfolio CTA (big, minimal) -->
 <p align="center">
-  <a href="<portfolio-url>">
-    <img alt="Go to portfolio" src="https://img.shields.io/badge/Visit%20my%20Portfolio-skyblue?style=for-the-badge&color=0EA5E9&labelColor=0B2530">
-  </a>
-</p>
-
-<!-- Micro-nav -->
-<p align="center">
-  <a href="https://linkedin.com/in/<your-handle>">LinkedIn</a> ·
-  <a href="mailto:<your-email>">Email</a> ·
-  <a href="https://github.com/<username>?tab=repositories">Repos</a>
+  🚀 Building cool stuff with <strong>C# · ASP.NET · SQL · JavaScript</strong>  
+  🌐 Check out my <a href="<portfolio-url>">Portfolio Website</a> for the full experience!
 </p>
 
 ---
 
-### Featured work
-- 🎵 **Moodify** — Vue + ASP.NET Core, OAuth (Auth Code Flow), JWT, EF Core, SQL  
-  <a href="https://github.com/<username>/Moodify">Repo</a> · <a href="<demo-link>">Live</a>
-
-- 📊 **GitHub Commit Explorer** — Vue + TypeScript + Pinia + Vitest  
-  <a href="https://github.com/<username>/GitHub_Commit_Explorer">Repo</a> · <a href="<demo-link>">Live</a>
-
-> More details and screenshots live on my portfolio.
+## 🔥 About Me
+🎯 Junior Software Developer passionate about creating **fast, secure, and user-friendly apps**.  
+💻 Skilled in **C#, ASP.NET Core/MVC, SQL, JavaScript**, and exploring **Angular & Blazor**.  
+⚡ Love solving problems, learning new tech, and building projects that make an impact.  
 
 ---
 
-### Tech constellation
+## 🛠 Tech Arsenal
+✨ **Languages:** C#, JavaScript, TypeScript, SQL  
+🖥 **Backend:** ASP.NET Core · MVC · Web API · Entity Framework  
+🎨 **Frontend:** Vue.js · React · HTML · CSS  
+🗄 **Databases:** SQL Server · MySQL · PostgreSQL  
+🔧 **Tools:** Git · Azure DevOps · Postman · Docker (basic)  
 
+---
+
+## 🚀 Featured Projects
+🎵 **Moodify** — Music + Mood App  
+🔑 Spotify OAuth · JWT Auth · REST APIs · EF Core · SQL  
+👉 [View Repo](https://github.com/<username>/Moodify)
+
+📊 **GitHub Commit Explorer** — Visualize GitHub history  
+🧪 Vue + TypeScript + Pinia + Vitest  
+👉 [View Repo](https://github.com/<username>/GitHub_Commit_Explorer)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical
+  https://github-readme-streak-stats.herokuapp.com?user=<username>&theme=radical
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColoradge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white</a>
+  https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white</a>
+</p>
