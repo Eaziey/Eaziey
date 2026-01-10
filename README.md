@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Eaziey/Eaziey/main/banner.png" alt="Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Eaziey/Eaziey/main/banner.png" alt="Profile Banner" width="50%">
 </p>
 
 <h2 align="center">👋 Hi, I'm Letlhogonolo Rakgantsho</h2>
