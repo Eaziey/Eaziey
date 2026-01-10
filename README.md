@@ -1,55 +1,42 @@
 
-<!-- Hero Banner -->
+<!-- Banner -->
 <p align="center">
-  https://raw.githubusercontent.com/Eaziey/Eaziey/main/banner.png
+  <img src="https://raw.githubusercontent.com/Eaziey/Eaziey/main/banner.png" alt="Welcome Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hey there, Welcome to my GitHub!</h1>
+<!-- Headline -->
+<h1 align="center" style="color:#0EA5E9;">Welcome to My GitHub 👋</h1>
 
 <p align="center">
-  🚀 Building cool stuff with <strong>C# · ASP.NET · SQL · JavaScript</strong>  
-  🌐 Check out my <a href="<portfolio-url>">Portfolio Website</a> for the full experience!
-</p>
-
----
-
-## 🔥 About Me
-🎯 Junior Software Developer passionate about creating **fast, secure, and user-friendly apps**.  
-💻 Skilled in **C#, ASP.NET Core/MVC, SQL, JavaScript**, and exploring **Angular & Blazor**.  
-⚡ Love solving problems, learning new tech, and building projects that make an impact.  
-
----
-
-## 🛠 Tech Arsenal
-✨ **Languages:** C#, JavaScript, TypeScript, SQL  
-🖥 **Backend:** ASP.NET Core · MVC · Web API · Entity Framework  
-🎨 **Frontend:** Vue.js · React · HTML · CSS  
-🗄 **Databases:** SQL Server · MySQL · PostgreSQL  
-🔧 **Tools:** Git · Azure DevOps · Postman · Docker (basic)  
-
----
-
-## 🚀 Featured Projects
-🎵 **Moodify** — Music + Mood App  
-🔑 Spotify OAuth · JWT Auth · REST APIs · EF Core · SQL  
-👉 [View Repo](https://github.com/<username>/Moodify)
-
-📊 **GitHub Commit Explorer** — Visualize GitHub history  
-🧪 Vue + TypeScript + Pinia + Vitest  
-👉 [View Repo](https://github.com/<username>/GitHub_Commit_Explorer)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=radical
-  https://github-readme-streak-stats.herokuapp.com?user=<username>&theme=radical
+  <strong style="color:#0EA5E9;">Crafting clean code & building cool projects</strong>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🌌 About This Space
+This is where I share my **projects**, experiments, and ideas.  
+I’m passionate about **C#, ASP.NET Core, SQL, and JavaScript**, and I love exploring new tech.  
+Want the full story? 👉 **[Visit My Portfolio](https://your-portfolio-link.com)**
+
+---
+
+### ⚡ Quick Links
 <p align="center">
-  https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColoradge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white</a>
-  https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white</a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/<username>?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🔥 Featured Projects
+- 🎵 **Moodify** — Music + Mood App  
+- 📊 **GitHub Commit Explorer** — Visualize commit history  
+*(_icons=true&theme=tokyonight
 </p>
