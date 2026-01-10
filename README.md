@@ -2,7 +2,7 @@
 <!-- 🌙 BANNER SECTION 🌙 -->
 <!-- ===================== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,100:0f2a44&height=220&section=header&text=Letlhogonolo%20Rakgantsho&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Building%20Clean%20&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1020,100:0f2a44&height=220&section=header&text=Letlhogonolo%20Rakgantsho&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20&descAlignY=65" />
 </p>
 <!-- ===================== -->
 <!-- 👋 INTRO -->
