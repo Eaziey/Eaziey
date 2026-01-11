@@ -45,7 +45,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 <!-- 🎨 Frontend -->
 <h3 align="center" style="color:#0ea5e9;">🎨 Frontend</h3>
-<p align="center" style="margin: 10;">
+<p align="center" style="margin: 100;">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" />
 </p>
 
