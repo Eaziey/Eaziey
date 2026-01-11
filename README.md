@@ -68,19 +68,38 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 ---
 
+
 <!-- 📈 GitHub Overview -->
 <h3 align="center" style="color:#0ea5e9; margin:0;">📈 GitHub Overview</h3>
 
-![Profile Details](https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
-![Stats](https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/3-stats.svg)
-![Repos per Language](https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![Most Commit Language](https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![Productive Time](https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
+<!-- Big profile details card (full width, centered) -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
+    alt="Profile Details" 
+    style="max-width: 100%;"
+  />
+</p>
+
+<!-- Four cards side-by-side, centered -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="24%" />
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="24%" />
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="24%" />
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="24%" />
+</p>
 
 <!-- Activity Graph -->
-[![Letlhogonolo's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night&hide_border=true" 
+      alt="Contribution Activity Graph" 
+      style="max-width: 100%;"
+    />
+  </a>
+</p>
 
----
 
 ## ✨ A little more about me
 - ⚡ I care about **UI details & developer experience**
