@@ -24,16 +24,16 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 ## 🌍 Connect with me
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/letlhogonolo-rakgantsho-603203275/" target="_blank">
+  <a href="https://www.linkedin.com/in/letlhogonolo-rakgantsho-603203275/">
     <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/eaziey" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/don___gambino" target="_blank">
+  <a href="https://instagram.com/don___gambino">
     <img src="https://img.shields.io/badge/Instagram-0ea5e9?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -45,7 +45,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 <!-- 🎨 Frontend -->
 <h3 align="center" style="color:#0ea5e9;">🎨 Frontend</h3>
-<p align="center" style="margin: 100;">
+<p align="center" style="margin: 100px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" />
 </p>
 
