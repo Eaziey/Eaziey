@@ -73,29 +73,26 @@ I enjoy turning ideas into polished products and continuously improving my skill
 <!-- 📈 GitHub Stats -->
 <h3 align="center" style="color:#0ea5e9;">📈 GitHub Stats</h3>
 
-<!-- Overall stats -->
+
+<!-- 📈 GitHub Overview (Alternative Widgets) -->
+<h3 align="center" style="color:#0ea5e9; margin:0;">📈 GitHub Overview</h3>
+
+<!-- Profile Details (Summary Cards) -->
 <p align="center" style="margin:0;">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=eaziey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=14400"
-    alt="GitHub stats for eaziey"
-  />
+  https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eaziey&theme=tokyonight
 </p>
 
-<!-- Streak stats (use the new domain) -->
+<!-- Stats + Languages (Summary Cards) -->
 <p align="center" style="margin:0;">
-  <img
-    src="https://streak-stats.demolab.com/?user=eaziey&theme=tokyonight&hide_border=true"
-    alt="GitHub streak for eaziey"
-  />
+  https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eaziey&theme=tokyonight
+  https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eaziey&theme=tokyonight
 </p>
 
-<!-- Top languages -->
+<!-- Activity Graph -->
 <p align="center" style="margin:0;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaziey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=14400&hide=css,html"
-    alt="Top languages for eaziey"
-  />
+  https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night
 </p>
+
 
 
 
