@@ -69,32 +69,24 @@ I enjoy turning ideas into polished products and continuously improving my skill
 ---
 
 
-
-<!-- 📈 GitHub Stats -->
-<h3 align="center" style="color:#0ea5e9;">📈 GitHub Stats</h3>
-
-
 <!-- 📈 GitHub Overview (Alternative Widgets) -->
 <h3 align="center" style="color:#0ea5e9; margin:0;">📈 GitHub Overview</h3>
 
-<!-- Profile Details (Summary Cards) -->
+<!-- Profile Details -->
 <p align="center" style="margin:0;">
-  https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eaziey&theme=tokyonight
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eaziey&theme=tokyonight" alt="GitHub Profile Details" />
 </p>
 
-<!-- Stats + Languages (Summary Cards) -->
+<!-- Stats + Languages -->
 <p align="center" style="margin:0;">
-  https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eaziey&theme=tokyonight
-  https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eaziey&theme=tokyonight
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eaziey&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eaziey&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center" style="margin:0;">
-  https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
-
-
-
 
 ---
 
