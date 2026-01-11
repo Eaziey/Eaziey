@@ -45,13 +45,13 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 <!-- 🎨 Frontend -->
 <h3 align="center" style="color:#0ea5e9;">🎨 Frontend</h3>
-<p align="center" style="margin: 100px;">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap" />
 </p>
 
 <!-- ⚙️ Backend & Databases -->
-<h3 align="center" style="color:#0ea5e9;">⚙️ Backend & Databases</h3>
-<p align="center" style="margin: 10;">
+<h3 align="center">⚙️ Backend & Databases</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
   <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" height="48" />
@@ -68,7 +68,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 
 <!-- 📈 GitHub Overview -->
-<h3 align="center" style="color:#0ea5e9; margin:0;">📈 GitHub Overview</h3>
+<h3 align="center">📈 GitHub Overview</h3>
 
 <p align="center">
   <img 
@@ -83,17 +83,6 @@ I enjoy turning ideas into polished products and continuously improving my skill
   <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="Repos per Language" width="24%" />
   <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/algolia/2-most-commit-language.svg" alt="Most Commit Language" width="24%" />
   <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/algolia/4-productive-time.svg" alt="Productive Time" width="24%" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night&hide_border=true" 
-      alt="Contribution Activity Graph" 
-      style="max-width: 100%;"
-    />
-  </a>
 </p>
 
 ## ✨ A little more about me
