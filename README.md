@@ -61,6 +61,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
 <h3 align="center" style="color:#0ea5e9;">🛠 Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" height="48" />
 </p>
 
 
