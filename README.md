@@ -69,25 +69,34 @@ I enjoy turning ideas into polished products and continuously improving my skill
 ---
 
 
-## 📈 GitHub Stats
 
-<p align="center">
+<!-- 📈 GitHub Stats -->
+<h3 align="center" style="color:#0ea5e9;">📈 GitHub Stats</h3>
+
+<!-- Overall stats -->
+<p align="center" style="margin:0;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=eaziey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=14400"
-    alt="GitHub Stats"
+    alt="GitHub stats for eaziey"
   />
 </p>
 
-<p align="center">
+<!-- Streak stats (use the new domain) -->
+<p align="center" style="margin:0;">
   <img
     src="https://streak-stats.demolab.com/?user=eaziey&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="GitHub streak for eaziey"
   />
 </p>
 
-<p align="center">
+<!-- Top languages -->
+<p align="center" style="margin:0;">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaziey&layout=compact&theme=tokyonight&hide_border=true
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaziey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=14400&hide=css,html"
+    alt="Top languages for eaziey"
+  />
+</p>
+
 
 
 ---
