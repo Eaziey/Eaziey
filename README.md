@@ -95,17 +95,6 @@ I enjoy turning ideas into polished products and continuously improving my skill
     />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=algolia&hide_border=true" 
-      alt="Contribution Activity Graph" 
-      style="max-width: 100%;"
-    />
-  </a>
-</p>
-
-
 
 ## ✨ A little more about me
 - ⚡ I care about **UI details & developer experience**
