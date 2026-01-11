@@ -89,7 +89,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night" />
 </p>
 
-[![Letlhogonolo's activity graph](assets/github-activity-graph.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Letlhogonolo's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
