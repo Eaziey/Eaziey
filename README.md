@@ -54,9 +54,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 ### 🧩 Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-</per">
-  https://skillicons.dev/icons?i=git,github,vscode,postman
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,git,github,vscode,postman" />
 </p>
 
 ---
