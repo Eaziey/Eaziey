@@ -41,15 +41,19 @@ I enjoy turning ideas into polished products and continuously improving my skill
 ---
 
 
+
 <!-- ⚙️ Backend & Databases -->
 <h3 align="center" style="color:#0ea5e9;">⚙️ Backend & Databases</h3>
 <p align="center">
   <!-- Backend (Skillicons) -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" alt="C#, .NET, Node.js" />
-  <!-- Databases: Skillicons for the ones supported -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL, SQLite" />
-  <!-- MSSQL via Devicon (since skillicons has no MSSQL) -->
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+
+  <!-- Databases: Skillicons for supported ones -->
+  <img src="https://skillicons.dev/icons?i=postgres" />
+
+  <!-- MSSQL via Devicon (skillicons doesn't have MSSQL) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" height="48" />
+</p>
 
 ---
 
