@@ -64,8 +64,6 @@ I enjoy turning ideas into polished products and continuously improving my skill
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" height="48" />
 </p>
 
-
-
 ---
 
 
@@ -83,10 +81,10 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 <!-- Four cards side-by-side, centered -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="24%" />
-  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="24%" />
-  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="24%" />
-  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="24%" />
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/algolia/3-stats.svg" alt="Stats" width="24%" />
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="Repos per Language" width="24%" />
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/algolia/2-most-commit-language.svg" alt="Most Commit Language" width="24%" />
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/algolia/4-productive-time.svg" alt="Productive Time" width="24%" />
 </p>
 
 <!-- Activity Graph -->
