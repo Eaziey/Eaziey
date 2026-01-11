@@ -49,7 +49,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 ### ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,sql,postgres" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mssql,mysql,postgres" />
 </p>
 
 ### 🧩 Frameworks
