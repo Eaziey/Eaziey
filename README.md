@@ -86,7 +86,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 <!-- Activity Graph (your working one) -->
 <p align="center" style="margin:0;">
-  https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night" />
 </p>
 
 <!-- Activity Graph -->
