@@ -24,7 +24,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 ## 🌍 Connect with me
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/letlhogonolo-rakgantsho-603203275/">
