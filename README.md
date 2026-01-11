@@ -40,22 +40,16 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 ---
 
-## 🛠 Tech Stack
 
-### 🎨 Frontend
+<!-- ⚙️ Backend & Databases -->
+<h3 align="center" style="color:#0ea5e9;">⚙️ Backend & Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" />
-</p>
-
-### ⚙️ Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,mssql,mysql,postgres" />
-</p>
-
-### 🧩 Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,git,github,vscode,postman" />
-</p>
+  <!-- Backend (Skillicons) -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" alt="C#, .NET, Node.js" />
+  <!-- Databases: Skillicons for the ones supported -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL, SQLite" />
+  <!-- MSSQL via Devicon (since skillicons has no MSSQL) -->
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
 
 ---
 
