@@ -64,11 +64,4 @@ I enjoy turning ideas into polished products and continuously improving my skill
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=footer" />
 </p>
 
-### 🛠 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,nodejs,express,dotnet,cs,sql,git,github,figma" />
-</p>
-
-
-</p>
  
