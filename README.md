@@ -19,14 +19,14 @@ I enjoy turning ideas into polished products and continuously improving my skill
 - 🎓 BSc in IT in Information and Knowledge Systems (Software Development stream)
 - 🚀 Passionate about full stack software development
 - 🧠 Always learning & refining my craft
+- Checkout my personal portfolio for more information about me: <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
 ---
 
 ## 🌍 Connect with me
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/letlhogonolo-rakgantsho-603203275/">
     <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
