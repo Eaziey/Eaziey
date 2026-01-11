@@ -89,6 +89,8 @@ I enjoy turning ideas into polished products and continuously improving my skill
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night" />
 </p>
 
+[![Letlhogonolo's activity graph](assets/github-activity-graph.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## ✨ A little more about me
