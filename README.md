@@ -75,17 +75,13 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 <!-- Profile Details -->
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eaziey&theme=tokyonight)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eaziey&theme=tokyonight)
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eaziey&theme=tokyonight)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eaziey&theme=tokyonight)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eaziey&theme=tokyonight&utcOffset=2)
-
+![Profile Details]https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eaziey&theme=tokyonight
+![Stats]https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eaziey&theme=tokyonight
+![Repos per Language]https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eaziey&theme=tokyonight
+![Most Commit Language]https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eaziey&theme=tokyonight
+![Productive Time]https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eaziey&theme=tokyonight&utcOffset=2
 
 <!-- Activity Graph -->
-<p align="center" style="margin:0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night" />
-</p>
 
 [![Letlhogonolo's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
