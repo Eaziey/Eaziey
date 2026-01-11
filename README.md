@@ -5,7 +5,7 @@
 </p>
 
 <!-- Profile Intro -->
-<h3 align="center" style="color:#0ea5e9;">💻 Full-Stack Software Developer</h3>
+<h3 align="center" style="color:#0ea5e9;">💻 Junior Full-Stack Software Developer</h3>
 <p align="center">
   Clean code • Modern web • Always learning
 </p>
@@ -13,11 +13,11 @@
 ---
 
 ## 👤 Who am I?
-I'm a **Full-Stack Software Developer** passionate about building clean, user-friendly web applications.  
+I'm a **Junior Full-Stack Software Developer** passionate about building clean, user-friendly web applications.  
 I enjoy turning ideas into polished products and continuously improving my skills across the stack.
 
-- 🎓 BSc IT (Software Development stream)
-- 🚀 Passionate about frontend + API integration
+- 🎓 BSc in IT in Information and Knowledge Systems (Software Development stream)
+- 🚀 Passionate about full stack software development
 - 🧠 Always learning & refining my craft
 
 ---
@@ -27,33 +27,61 @@ I enjoy turning ideas into polished products and continuously improving my skill
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/letlhogonolo-rakgantsho-603203275" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/eaziey" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/don___gambino" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0ea5e9?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 🛠 Tech Stack
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,cs,dotnet,nodejs,sql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,sql,postgres" />
+</p>
+
+### 🧩 Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+</per">
+  https://skillicons.dev/icons?i=git,github,vscode,postman
 </p>
 
 ---
 
+
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eaziey&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=eaziey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=14400"
+    alt="GitHub Stats"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eaziey&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=eaziey&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaziey&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaziey&layout=compact&theme=tokyonight&hide_border=true
+
 
 ---
 
