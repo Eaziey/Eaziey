@@ -3,8 +3,11 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # run daily at 00:00 UTC
-  workflow_dispatch: {}    # allow manual runs from the Actions tab
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # allow commits/pushes from this workflow
 
 jobs:
   build:
@@ -16,7 +19,11 @@ jobs:
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use a Personal Access Token secret as recommended by the project tutorial
+          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS_TOKEN }}
         with:
-          USERNAME: eaziey            # <-- your GitHub username
-          THEME: tokyonight           # you can change this theme if you want
+          USERNAME: eaziey
+          BRANCH_NAME: main          # match your default branch
+          UTC_OFFSET: 0              # adjust if you want 'productive time' aligned to your timezone
+          AUTO_PUSH: true            # let the action commit/push outputs
+          # EXCLUDE: "JavaScript,HTML"  # optional: exclude languages from language cards
