@@ -46,7 +46,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
 <!-- 🎨 Frontend -->
 <h3 align="center" style="color:#0ea5e9;">🎨 Frontend</h3>
 <p align="center" style="margin: 100px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap" />
 </p>
 
 <!-- ⚙️ Backend & Databases -->
@@ -58,9 +58,9 @@ I enjoy turning ideas into polished products and continuously improving my skill
 </p>
 
 <!-- 🧩 Frameworks & Tools -->
-<h3 align="center" style="color:#0ea5e9;">🧩 Frameworks & 🛠 Tools</h3>
-<p align="center" style="margin: 10;">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,git,github,vscode,postman" />
+<h3 align="center" style="color:#0ea5e9;">🛠 Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 
