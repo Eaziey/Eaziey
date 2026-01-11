@@ -75,23 +75,18 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 <!-- Profile Details -->
 <p align="center" style="margin:0;">
-  https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/0-profile-details.svg
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
 </p>
 
 <!-- Stats + Languages -->
 <p align="center" style="margin:0;">
-  https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/3-stats.svg
-  https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg
-</p>
-
-<!-- Activity Graph (your working one) -->
-<p align="center" style="margin:0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night" />
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center" style="margin:0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night" />
 </p>
 
 ---
