@@ -70,16 +70,14 @@ I enjoy turning ideas into polished products and continuously improving my skill
 <!-- 📈 GitHub Overview -->
 <h3 align="center" style="color:#0ea5e9; margin:0;">📈 GitHub Overview</h3>
 
-<!-- Big profile details card (full width, centered) -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/0-profile-details.svg" 
+    src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/algolia/0-profile-details.svg" 
     alt="Profile Details" 
     style="max-width: 100%;"
   />
 </p>
 
-<!-- Four cards side-by-side, centered -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/algolia/3-stats.svg" alt="Stats" width="24%" />
   <img src="https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="Repos per Language" width="24%" />
@@ -97,6 +95,16 @@ I enjoy turning ideas into polished products and continuously improving my skill
     />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=algolia&hide_border=true" 
+      alt="Contribution Activity Graph" 
+      style="max-width: 100%;"
+    />
+  </a>
+</p>
+
 
 
 ## ✨ A little more about me
