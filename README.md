@@ -27,7 +27,7 @@ I enjoy turning ideas into polished products and continuously improving my skill
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/www.linkedin.com/in/letlhogonolo-rakgantsho-603203275](https://www.linkedin.com/in/letlhogonolo-rakgantsho-603203275/)" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/letlhogonolo-rakgantsho-603203275/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/eaziey" target="_blank">
