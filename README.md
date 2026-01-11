@@ -68,18 +68,15 @@ I enjoy turning ideas into polished products and continuously improving my skill
 
 ---
 
-
-
-<!-- 📈 GitHub Overview (Self-hosted via Actions) -->
+<!-- 📈 GitHub Overview -->
 <h3 align="center" style="color:#0ea5e9; margin:0;">📈 GitHub Overview</h3>
 
 <!-- Profile Details -->
-
-![Profile Details]https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eaziey&theme=tokyonight
-![Stats]https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eaziey&theme=tokyonight
-![Repos per Language]https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eaziey&theme=tokyonight
-![Most Commit Language]https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eaziey&theme=tokyonight
-![Productive Time]https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eaziey&theme=tokyonight&utcOffset=2
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eaziey&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eaziey&theme=tokyonight)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eaziey&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eaziey&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eaziey&theme=tokyonight&utcOffset=2)
 
 <!-- Activity Graph -->
 
