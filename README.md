@@ -69,18 +69,24 @@ I enjoy turning ideas into polished products and continuously improving my skill
 ---
 
 
-<!-- 📈 GitHub Overview (Alternative Widgets) -->
+
+<!-- 📈 GitHub Overview (Self-hosted via Actions) -->
 <h3 align="center" style="color:#0ea5e9; margin:0;">📈 GitHub Overview</h3>
 
 <!-- Profile Details -->
 <p align="center" style="margin:0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eaziey&theme=tokyonight" alt="GitHub Profile Details" />
+  https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/0-profile-details.svg
 </p>
 
 <!-- Stats + Languages -->
 <p align="center" style="margin:0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eaziey&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eaziey&theme=tokyonight" alt="Top Languages" />
+  https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/3-stats.svg
+  https://raw.githubusercontent.com/eaziey/eaziey/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg
+</p>
+
+<!-- Activity Graph (your working one) -->
+<p align="center" style="margin:0;">
+  https://github-readme-activity-graph.vercel.app/graph?username=eaziey&theme=tokyo-night
 </p>
 
 <!-- Activity Graph -->
